@@ -39,11 +39,12 @@ I'm a passionate Software Developer with hands-on experience building and optimi
 
 
 ---
-### 🐍 Contribution Snake Animation
+### 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Aqii/Aqii/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
+  <img src="https://raw.githubusercontent.com/Aqii/Aqii/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
 
 
 ### 📊 Languages & Tools (Just a Glimpse)
@@ -53,6 +54,19 @@ I'm a passionate Software Developer with hands-on experience building and optimi
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqii&show_icons=true&theme=radical" alt="Aqii's GitHub Stats" />
+</p>
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-F44A1D?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ### 🎮 When I'm Not Coding...
 
@@ -62,13 +76,21 @@ I'm a passionate Software Developer with hands-on experience building and optimi
 
 ---
 
-### 🤝 Let’s Connect!
+### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aqib-ali-b58685150/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqiibali007@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aqib-ali-b58685150/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aqiibali007@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+ 
+</p>
 
 ---
+
+
 
 ### 👀 Visitor Counter
 <p align="center">
