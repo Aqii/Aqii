@@ -39,11 +39,12 @@ I'm a passionate Software Developer with hands-on experience building and optimi
 
 
 ---
-### 🐍 Contribution to Snake Animation
+### 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://github.com/Aqii/Aqii/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
 </p>
+
 
 ### 📊 Languages & Tools (Just a Glimpse)
 
@@ -73,6 +74,7 @@ I'm a passionate Software Developer with hands-on experience building and optimi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aqii&style=flat-square&color=blue" alt="visitor counter"/>
 </p>
+
 
 ---
 
